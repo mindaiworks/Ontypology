@@ -12,6 +12,10 @@ Logic was philosophy a century ago; once clearly understood, it became a promine
 
 Today, exploring "Type" (the concept of the brain) is philosophy. This study of Ontypology to clearly understand "Type" transforming it into a prominent field of study (science) and putting it into practice in Mind AI.
 
+李飞飞：数字寒武纪的爆发
+
+她讲到在遥远的寒武纪时代，一切都是漆黑的，有一种三叶虫的生物首先感知到光，感知到光以后发展出了神经系统，接下来就是「理解思考」最后执行。这就是生物发展的规律。
+
 
 ## 联系信息 Contact Information
 张长丰gamma@livemail.tw
