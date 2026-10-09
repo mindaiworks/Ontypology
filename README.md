@@ -10,7 +10,7 @@ Logic was philosophy a century ago; once clearly understood, it became a promine
 
 今探讨「形」(大脑概念) 是哲学，本形学将「形」，看清楚转成显学(科学) ，并实践化 Mind AI 。
 
-Today, exploring "Type" (the concept of the brain) is philosophy. This study of form aims to clearly understand "Type" transforming it into a prominent field of study (science) and putting it into practice in Mind AI.
+Today, exploring "Type" (the concept of the brain) is philosophy. This study of Ontypology to clearly understand "Type" transforming it into a prominent field of study (science) and putting it into practice in Mind AI.
 
 
 ## 联系信息 Contact Information
