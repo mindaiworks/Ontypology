@@ -17,7 +17,8 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 她讲到在遥远的寒武纪时代，一切都是漆黑的，有一种三叶虫的生物首先感知到光，感知到光以后发展出了神经系统，接下来就是「理解思考」最后执行。这就是生物发展的规律。
 
 #📖大綱 Contents📖
-##[形與數 TypeNumber](形與數)
+
+##[形與數 TypeNumber](本形學/形與數)
 
 
 
