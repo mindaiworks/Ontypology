@@ -18,19 +18,19 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 #📖大綱 Contents📖
 
-##[形與數 TypeNumber](本形學/形與數)
+##[形與數 (TypeNumber)](本形學/形與數)
 
-##[空間本形 Space Type](本形學/空間本形篇)
+##[空間本形 (Space Type)](本形學/空間本形篇)
 
-##[本形學之Ontology與FDE Ontology&FDE](本形學/本形學之Ontology與FDE)
+##[本形學之Ontology與FDE (Ontology&FDE)](本形學/本形學之Ontology與FDE)
 
-##[本形學之數學證明 Mathematical proof](本形學/本形學之數學證明)
+##[本形學之數學證明 (Mathematical proof)](本形學/本形學之數學證明)
 
-##[本形學之世界模型的大腦 Brain of the World Model](本形學/本形學之世界模型的大腦)
+##[本形學之世界模型的大腦 (Brain of the World Model)](本形學/本形學之世界模型的大腦)
 
-##[本形學之IC設計 IC Design](本形學/本形學之IC設計)
+##[本形學之IC設計 (IC Design)](本形學/本形學之IC設計)
 
-##[本形學之PLM](本形學/本形學之PLM)
+##[本形學之PLM (PLM)](本形學/本形學之PLM)
 
 
 ## 联系信息 Contact Information
