@@ -19,6 +19,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 #📖大綱 Contents📖
 
 ##[形與數 TypeNumber](本形學/形與數)
+##[空間本形 Space Type](本形學/空間本形篇)
 
 
 
