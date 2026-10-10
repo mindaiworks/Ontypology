@@ -16,22 +16,33 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 她讲到在遥远的寒武纪时代，一切都是漆黑的，有一种三叶虫的生物首先感知到光，感知到光以后发展出了神经系统，接下来就是「理解思考」最后执行。这就是生物发展的规律。
 
+----------------------------------------
+
 #📖大綱 Contents📖
 
 ##[形與數 (TypeNumber)](本形學/形與數)
 
 ##[空間本形 (Space Type)](本形學/空間本形篇)
 
-##[本形學之Ontology與FDE (Ontology&FDE)](本形學/本形學之Ontology與FDE)
+##[時間本形 (Time Type)]
 
-##[本形學之數學證明 (Mathematical proof)](本形學/本形學之數學證明)
+##[推理 (Reasoning)]
 
-##[本形學之世界模型的大腦 (Brain of the World Model)](本形學/本形學之世界模型的大腦)
+##[思考法 (Thinking)]
 
-##[本形學之IC設計 (IC Design)](本形學/本形學之IC設計)
+----------------------------------------
 
-##[本形學之PLM (PLM)](本形學/本形學之PLM)
+##[本形学之Ontology與FDE (Ontology&FDE)](本形學/本形學之Ontology與FDE)
 
+##[本形学之數學證明 (Mathematical proof)](本形學/本形學之數學證明)
+
+##[本形学之世界模型的大腦 (Brain of the World Model)](本形學/本形學之世界模型的大腦)
+
+##[本形学之IC设计 (IC Design)](本形學/本形學之IC設計)
+
+##[本形学之PLM (PLM)](本形學/本形學之PLM)
+
+----------------------------------------
 
 ## 联系信息 Contact Information
 张长丰gamma@livemail.tw
