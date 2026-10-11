@@ -1,4 +1,7 @@
-
+<p align="center">
+  <a href="https://github.com/mindaiworks">🏠 Home</a>
+  <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
+</p>
 # :star:本形学　Ontypology:star:
 从异同到分合，从分合到形，从形到理解这条路，大脑走了亿万年。
 
