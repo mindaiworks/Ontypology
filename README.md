@@ -1,8 +1,9 @@
+# :star:本形学　Ontypology:star:
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a>
   <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
 </p>
-# :star:本形学　Ontypology:star:
+
 从异同到分合，从分合到形，从形到理解这条路，大脑走了亿万年。
 
 Type similarities and differences to separation and unity, from separation and unity to form, and from form to understanding, the brain has traversed this path for billions of years.
