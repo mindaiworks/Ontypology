@@ -42,15 +42,15 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ----------------------------------------
 
-##[本形学之Ontology與FDE (Ontology&FDE)](本形學/本形學之Ontology與FDE)
+##[本形学之Ontology與FDE (Ontology&FDE)]
 
-##[本形学之數學證明 (Mathematical proof)](本形學/本形學之數學證明)
+##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)
 
-##[本形学之世界模型的大腦 (Brain of the World Model)](本形學/本形學之世界模型的大腦)
+##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)
 
-##[本形学之IC设计 (IC Design)](本形學/本形學之IC設計)
+##[本形学之IC设计 (IC Design)]
 
-##[本形学之PLM (PLM)](本形學/本形學之PLM)
+##[本形学之PLM (PLM)]
 
 ----------------------------------------
 
