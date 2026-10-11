@@ -1,6 +1,6 @@
 # :star:本形学　Ontypology:star:
 <p align="center">
-  <a href="https://github.com/mindaiworks">🏠 Home</a>|
+  <a href="https://github.com/mindaiworks">🏠 Home</a> ｜ 
   <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
 </p>
 
