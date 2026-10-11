@@ -28,7 +28,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[簡介 (Space Type)](本形學-空間本形)
 
-##[形與數 (TypeNumber)](本形學/形與數)
+##[形與數 (TypeNumber)](本形學-空間本形/1.形與數)
 
 ##[记忆管理 (Memory Management)]
 
