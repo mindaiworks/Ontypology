@@ -80,7 +80,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[本形学之IC设计 (IC Design)](本形學之IC設計)
 
-##[本形学之PLM (PLM)](本形學之PLM)
+##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)
 
 ----------------------------------------
 
