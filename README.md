@@ -60,8 +60,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 张楟颍mindaiworks@gmail.com
 
 ## www.longreat.net
-
 <p align="center" float="left">
-  <img alt="MindAI Logo" src="本形學/CPIC/Main.png" />
+  <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" />
 </p>
 
