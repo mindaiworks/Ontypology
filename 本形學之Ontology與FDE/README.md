@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/27_DodMKORs">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+ <a href="https://v.douyin.com/n1XlkcaPF6A">📽️抖音</a> 
  </p>
  
 # 本形學之 Ontology 與 FDE 應用
