@@ -1,10 +1,7 @@
  
 <p align="center">
-  <a href="[README.zh.md](https://youtu.be/zBdZ4OqzbOI)">youtube</a> ｜ 
-  <a href="https://github.com/mindaiworks/Paper">Mind AI</a> ｜ 
-  <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
-
-  
+  <a href="https://youtu.be/zBdZ4OqzbOI">youtube</a> ｜ 
+ 
 </p>
 
 # 本形學　Ontology
