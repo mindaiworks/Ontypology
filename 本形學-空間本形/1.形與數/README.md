@@ -2,6 +2,11 @@
 <p align="center">
   <a href="https://youtu.be/dANUjKB41GU">🎞️youtube</a> ｜ 
  <a href="https://v.douyin.com/hG9KdjQCLGQ">📽️抖音 公理</a> 
+ <a href="https://v.douyin.com/aT3BGYxo5J0">📽️抖音 為什麼不同東西能相加</a> 
+  <a href="https://v.douyin.com/KJ9vCsTQX2E">📽️抖音 為什麼先有形，才有數</a> 
+   <a href="https://v.douyin.com/WkOxsMUuxLI">📽️抖音 為什麼算數前必須先定義「形」</a> 
+
+ 
  </p>
 
 # 本形學-空間本形   Ontology-Space
