@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/27_DodMKORs">🎞️youtube</a> ｜ 
+ <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+ </p>
+
 
 # 本形學 Ontypology —— 世界模型的大腦 Brain Of The World Model
 
