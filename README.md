@@ -37,13 +37,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[形集合与形逻辑 (Type sets and Type logic)]
 
-
-
-##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
-
 ##[记忆管理 (Memory Management)]
-
-
 
 #時間本形 Time Type
 -----------------------------------------------
@@ -70,7 +64,11 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[自我演化 (Self-evolution)]
 
-----------------------------------------
+
+#相关应用  Related Applications
+-----------------------------------------------
+
+##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
 ##[本形学之Ontology與FDE (Ontology&FDE)]
 
