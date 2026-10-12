@@ -39,7 +39,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 
 
-##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](Paper/Knowledge%20Graph%20Bom)
+##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
 ##[记忆管理 (Memory Management)]
 
