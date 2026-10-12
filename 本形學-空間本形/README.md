@@ -1,3 +1,12 @@
+ 
+<p align="center">
+  <a href="[README.zh.md](https://youtu.be/zBdZ4OqzbOI)">youtube</a> ｜ 
+  <a href="https://github.com/mindaiworks/Paper">Mind AI</a> ｜ 
+  <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
+
+  
+</p>
+
 # 本形學　Ontology
 ## 空間本形　Space
 ### 從異同分合到形式邏輯的一套理論框架
