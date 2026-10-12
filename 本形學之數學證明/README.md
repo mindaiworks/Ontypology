@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/27_DodMKORs">🎞️youtube</a> ｜ 
+ <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+ </p>
+
 # 形集合與形邏輯：數學證明的更準確方法
 
 *Type Sets and Type Logic toward More Precise Mathematical Proofs*
