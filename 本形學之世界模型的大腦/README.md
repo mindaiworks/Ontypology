@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/0n_b9J6pJNs">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+ <a href="https://v.douyin.com/-jBksOHgodQ">📽️抖音</a> 
  </p>
 
 
