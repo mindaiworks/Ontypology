@@ -22,9 +22,8 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ----------------------------------------
 
-#📖大纲 Contents📖
-
 #空间本形 Space Type
+-----------------------------------------------
 
 ##[簡介 (Space Type)](本形學-空間本形)
 
@@ -37,13 +36,17 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 ##[关联式资料库与形的关系 RDB and Type]
 
 ##[形集合与形逻辑 (Type sets and Type logic)]
------------------------------------------------
+
+
+
 ##[知识图谱物料清单 (Knowledge Graph Bill of Materials)]
 
 ##[记忆管理 (Memory Management)]
------------------------------------------------
+
+
 
 #時間本形 Time Type
+-----------------------------------------------
 
 ##[推理 (Reasoning)]
 
