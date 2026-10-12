@@ -1,7 +1,7 @@
  
 <p align="center">
   <a href="https://youtu.be/dANUjKB41GU">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+ <a href="https://v.douyin.com/hG9KdjQCLGQ">📽️抖音 公理</a> 
  </p>
 
 # 本形學-空間本形   Ontology-Space
