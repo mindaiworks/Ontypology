@@ -68,6 +68,8 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 #相关应用  Related Applications
 -----------------------------------------------
 
+##[Mind AI](https://github.com/mindaiworks/Paper)
+
 ##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
 ##[本形学之Ontology與FDE (Ontology&FDE)](本形學之Ontology與FDE)
