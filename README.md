@@ -29,7 +29,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)
 
-##[单位形 (Unit Type)]
+##[单位形 (Unit Type)](本形學-空間本形/單位形)
 
 ##[空间框架 (FrameWork)]
 
