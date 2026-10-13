@@ -1,18 +1,21 @@
+<p align="center">
+  <a href="https://youtu.be/6y4EZyKeGhk">🎞️youtube</a> ｜ 
+ <a href="https://v.douyin.com/Z6qcrkO2J5U">📽️抖音</a> 
+ </p>
+
+
+
 # 本形學   Ontypology
 
 # 空間本形 Space
 
-❖ ❖ ❖
-
-**U N I T   TYPE**
-
-**單位形**
+**單位形  UNIT TYPE**
 
 **屬性、容器與空間清單**
 
 *Property , Containers, BOM &amp; SOM*
 
-![image1](assets/image1.jpg)
+![](main.jpg)
 
 ## 目　錄
 
