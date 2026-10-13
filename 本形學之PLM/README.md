@@ -5,6 +5,7 @@
 
 # 機械設計與 PLM 的應用
 
+![](main.jpg)
 
 **關鍵詞：**機械設計・產品生命週期管理（PLM）・本形學（Ontypology）・Mind Model・物料清單（BOM）・變更管理・知識管理・人工智慧
 
