@@ -5,7 +5,6 @@
 </p>
 
 ![](main.jpg)
-
 从异同到分合，从分合到形，从形到理解这条路，大脑走了亿万年。
 
 Type similarities and differences to separation and unity, from separation and unity to form, and from form to understanding, the brain has traversed this path for billions of years.
@@ -21,6 +20,8 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 李飞飞：数字寒武纪的爆发
 
 她讲到在遥远的寒武纪时代，一切都是漆黑的，有一种三叶虫的生物首先感知到光，感知到光以后发展出了神经系统，接下来就是「理解思考」最后执行。这就是生物发展的规律。
+
+![](本形學-空間本形/MIND.jpg)
 
 ----------------------------------------
 
