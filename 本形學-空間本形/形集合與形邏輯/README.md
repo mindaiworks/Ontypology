@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://youtu.be/hG9KdjQCLGQ">🎞️youtube 公理化・定理・證明</a> ｜ 
   📽️抖音 
-  <a href="https://v.douyin.com/H8Hg9merXk">簡介</a> ｜ 
+  <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
  <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
  </p>
  
