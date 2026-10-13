@@ -42,7 +42,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 #時間本形 Time Type
 -----------------------------------------------
 
-##[時間函式搜尋 (Time function search)]
+##[形時間函式搜尋 (Time function search)]
 
 ##[设计模式 (Design Patterns)]
 
