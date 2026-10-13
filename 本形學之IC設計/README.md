@@ -6,10 +6,12 @@
 
 
 # 本形學  Ontypology
-
 空間本形 Space
 
+
 # IC 設計大腦：SiliconMind 與 Verilog 的準確方法
+
+![](main.jpg)
 
 本形學在積體電路設計的精確方法、形式化與時間維度
 
