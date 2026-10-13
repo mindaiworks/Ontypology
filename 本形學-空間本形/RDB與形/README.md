@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtu.be/ufkQCSiv-Q0">🎞️youtube</a> ｜ 
+  <a href="https://youtu.be/GB96818ERBw">🎞️youtube</a> ｜ 
  <a href="https://v.douyin.com/IroRdllUOw0">📽️抖音</a> 
  </p>
 
