@@ -7,7 +7,7 @@
 
 # 空間本形 Space
 
-![image1.png](docx_media/image1.png)
+![image1.png](main.jpg)
 
 **RDB 與形的關係**
 
