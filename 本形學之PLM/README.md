@@ -5,13 +5,6 @@
 
 # 機械設計與 PLM 的應用
 
-**本形學與 Mind Model 融合之研究**
-
-*The Application of Mechanical Design and PLM: An Integration of Ontypology and Mind Model*
-
-**研究論文 ‧ 白皮書**
-
-LonGeat ‧ Mind AI 研究團隊｜2026 年 10 月
 
 **關鍵詞：**機械設計・產品生命週期管理（PLM）・本形學（Ontypology）・Mind Model・物料清單（BOM）・變更管理・知識管理・人工智慧
 
