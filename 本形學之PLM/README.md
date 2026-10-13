@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/ufkQCSiv-Q0">🎞️youtube</a> ｜ 
+ <a href="https://v.douyin.com/XicukGs_pII">📽️抖音</a> 
+ </p>
+
 # 機械設計與 PLM 的應用
 
 **本形學與 Mind Model 融合之研究**
