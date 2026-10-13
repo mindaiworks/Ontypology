@@ -46,25 +46,25 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[形時間函式搜尋 (Time function search)]
 
-##[设计模式 (Design Patterns)]
+##[设计模式 (Design Patterns)-暂不开放]
 
-##[逻辑生成與应用 (Logic generation and application)]
+##[逻辑生成與应用 (Logic generation and application)-暂不开放]
 
-##[持续学习 (Continuous learning)]
+##[持续学习 (Continuous learning)-暂不开放]
 
-##[重构與重组 (Restructuring and Reorganization)]
+##[重构與重组 (Restructuring and Reorganization)-暂不开放]
 
-##[解题 (Problem Analysis)]
+##[解题 (Problem Analysis)-暂不开放]
 
-##[分析 (Analysis)]
+##[分析 (Analysis)-暂不开放]
 
-##[设计 (Design)]
+##[设计 (Design)-暂不开放]
 
-##[推理 (Reasoning)]
+##[推理 (Reasoning)-暂不开放]
 
-##[思考法 (Thinking)]
+##[思考法 (Thinking)-暂不开放]
 
-##[自我演化 (Self-evolution)]
+##[自我演化 (Self-evolution)-暂不开放]
 
 
 #相关应用  Related Applications
