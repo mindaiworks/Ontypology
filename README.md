@@ -35,7 +35,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[空间框架 (FrameWork)](本形學-空間本形/空间框架)
 
-##[关联式资料库与形的关系 RDB and Type](本形學-空間本形/RDB與形)
+##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)
 
 ##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)
 
