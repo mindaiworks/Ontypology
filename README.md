@@ -39,7 +39,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)
 
-##[记忆管理 (Memory Management)]
+##[记忆管理 (Memory Management)--既将推出]
 
 #時間本形 Time Type
 -----------------------------------------------
