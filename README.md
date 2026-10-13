@@ -87,7 +87,10 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)
 
-##[本形学之医药研发(Drug development)](醫藥研發)
+##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
+  <a href="https://youtu.be/9zd38zjlrTo">🎞️橫式</a> ｜ 
+ <a href="https://v.douyin.com/_zUWaaC-I38">📽️直式</a> 
+ 
 
 ----------------------------------------
 
