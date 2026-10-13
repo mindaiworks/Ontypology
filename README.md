@@ -52,7 +52,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[持续学习 (Continuous learning)]
 
-##[重构與重组 (重构與重组)]
+##[重构與重组 (Restructuring and Reorganization)]
 
 ##[解题 (Problem Analysis)]
 
