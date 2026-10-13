@@ -6,6 +6,8 @@
 
 # 本形學 Ontypology —— 世界模型的大腦 Brain Of The World Model
 
+![](main.jpg)
+
 **本形學的準確方法與 World Mind 應用架構**
 
 ---
