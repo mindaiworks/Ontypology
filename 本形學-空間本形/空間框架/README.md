@@ -15,7 +15,7 @@
 
 *Framework——把推導過程變成可重複套用的做法*
 
-![image1](PIC/image1.png)
+![image1](main.jpg)
 
 ## 目　錄
 
