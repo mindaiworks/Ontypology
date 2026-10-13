@@ -5,7 +5,7 @@
  
 # 本形學之 Ontology 與 FDE 應用
 
-![](main.png)
+![](main.jpg)
 
 *形的本體化建構與一階蘊含（FDE）四值邏輯的判斷應用*
 
