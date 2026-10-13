@@ -1,4 +1,4 @@
-# 本形學   Ontology
+# 本形學   Ontypology
 
 # 空間本形 Space
 
