@@ -5,6 +5,8 @@
 
 # 形集合與形邏輯：數學證明的更準確方法
 
+![](main.jpg)
+
 *Type Sets and Type Logic toward More Precise Mathematical Proofs*
 
 > **摘　要**
