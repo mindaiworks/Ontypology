@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/ufkQCSiv-Q0">🎞️youtube</a> ｜ 
+ <a href="https://v.douyin.com/IroRdllUOw0">📽️抖音</a> 
+ </p>
+
 # 本形學   Ontypology
 
 # 空間本形 Space
