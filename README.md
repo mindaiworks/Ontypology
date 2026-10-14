@@ -29,16 +29,36 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 -----------------------------------------------
 
 ##[簡介 (Space Type)](本形學-空間本形)｜
+  <a href="https://youtu.be/zBdZ4OqzbOI">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/K3S5wEwpWkw">📱直式</a> 
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜
+  <a href="https://youtu.be/dANUjKB41GU">💻橫式</a> ｜ 📱直式
+ <a href="https://v.douyin.com/hG9KdjQCLGQ">公理</a> 
+ <a href="https://v.douyin.com/aT3BGYxo5J0">為什麼不同東西能相加</a> 
+  <a href="https://v.douyin.com/KJ9vCsTQX2E">為什麼先有形，才有數</a> 
+   <a href="https://v.douyin.com/WkOxsMUuxLI">為什麼算數前必須先定義「形」</a> 
 
 ##[单位形 (Unit Type)](本形學-空間本形/單位形)｜
-
+  <a href="https://youtu.be/6y4EZyKeGhk">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/Z6qcrkO2J5U">📱直式</a> 
+ 
 ##[空间框架 (FrameWork)](本形學-空間本形/空間框架)｜
+  <a href="https://youtu.be/ek3m6X2idWk">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/ETtNqubX3mw">📱直式</a> 
 
 ##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)｜
+  <a href="https://youtu.be/GB96818ERBw">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/Pc-qeLbf-IU">📱直式</a> 
 
 ##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)｜
+  💻橫式
+  <a href="https://youtu.be/ek580IvQRQA">簡介</a> ｜ 
+  <a href="https://youtu.be/hG9KdjQCLGQ">公理化・定理・證明</a> 
+  ｜ 
+ 📱直式 
+  <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
+ <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
 
 ##[记忆管理 (Memory Management)--暂不开放]
 
