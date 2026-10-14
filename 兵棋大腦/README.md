@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/NbvQTO81iLM">💻橫式</a> ｜ 
+   <a href="https://v.douyin.com/hx7s5DgRzKg">📱直式</a> 
+ </p>
+ 
 **本形學   Ontypology**
 
 # 兵棋大腦   WarMind
