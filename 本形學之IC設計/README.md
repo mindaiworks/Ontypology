@@ -6,7 +6,6 @@
 
 
 # 本形學  Ontypology
-空間本形 Space
 
 
 # IC 設計大腦：SiliconMind 與 Verilog 的準確方法
