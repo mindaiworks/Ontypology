@@ -808,39 +808,7 @@ L4 的時間迴圈實際跑了三輪，表 7-3 是完整驗證紀錄。值得細
 
 本形學在 IC 領域的這次落地，也反過來驗證了理論本身：當一套形的語言能同時解釋認知、資料結構、數學集合與硬體描述，它就不只是描述世界的框架，而是設計世界的準確方法。
 
-# 參考文獻
 
-[1] LonGreat Mind AI 研究團隊，《本形學：空間本形篇》，研究手稿，2026。
-
-[2] LonGreat Mind AI 研究團隊，《本形學：時間本形篇》，研究手稿，2026。
-
-[3] LonGreat Mind AI 研究團隊，《世界模型的大腦：本形學的準確方法》，研究手稿，2026。
-
-[4] LonGreat Mind AI 研究團隊，《IC 設計大腦：SiliconMind》，研究手稿，2026。
-
-[5] LonGreat Mind AI 研究團隊，《形集合與形邏輯：數學證明的更準確方法》，研究手稿，2026。
-
-[6] LonGreat Mind AI 研究團隊，《本形學之 Ontology 與 FDE 應用》，研究手稿，2026。
-
-[7] IEEE Std 1364-2005, IEEE Standard Verilog Hardware Description Language, IEEE, 2005.
-
-[8] IEEE Std 1800-2023, IEEE Standard for SystemVerilog—Unified Hardware Design, Specification, and Verification Language, IEEE, 2023.
-
-[9] S. Sutherland, D. Mills, S. Golson, Verilog and SystemVerilog for Design: A Guide to Using HDL for Efficient Digital Design, Springer, 2018.
-
-[10] N. H. E. Weste, D. M. Harris, CMOS VLSI Design: A Circuits and Systems Perspective, 4th ed., Addison-Wesley, 2011.
-
-[11] E. F. Codd, "A Relational Model of Data for Large Shared Data Banks," Communications of the ACM, vol. 13, no. 6, pp. 377–387, 1970.
-
-[12] K. Koffka, Principles of Gestalt Psychology, Harcourt, 1935.
-
-[13] J. F. Allen, "Maintaining Knowledge about Temporal Intervals," Communications of the ACM, vol. 26, no. 11, pp. 832–843, 1983.
-
-[14] N. D. Belnap Jr., "A Useful Four-Valued Logic," in Modern Uses of Multiple-Valued Logic, Springer, 1977, pp. 5–37.
-
-[15] S. Russell, P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed., Pearson, 2020.
-
-[16] M. Keating, P. Bricaud, Reuse Methodology Manual for System-on-Chip Designs, 3rd ed., Springer, 2002.
 
 # 附錄 A　三層判斷速查表
 
