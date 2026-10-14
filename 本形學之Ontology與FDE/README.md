@@ -495,9 +495,6 @@ FDE 的聯結詞用格運算定義（圖4-2）：合取 ∧ 取真值序的下�
 
 [17] Arieli, O., Avron, A., & Zamansky, A. (2011). Maximally paraconsistent logics. Artificial Intelligence, 175(1), 297–326.
 
-[18] LonGreat Mind AI 研究團隊. (2026). 本形學-空間本形篇. 內部研究手稿.
-
-[19] LonGreat Mind AI 研究團隊. (2026). 本形學-時間本形篇. 內部研究手稿.
 
 ## 附錄 A　FDE 判斷速查表
 
