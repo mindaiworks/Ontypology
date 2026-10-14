@@ -91,7 +91,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
-##[本形学之兵棋大腦(Wargames Brain)](兵棋大腦) ｜ 
+##[本形学之兵棋大脑(Wargames Brain)](兵棋大腦) ｜ 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
  
