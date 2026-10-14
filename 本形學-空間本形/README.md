@@ -1,7 +1,7 @@
  
 <p align="center">
-  <a href="https://youtu.be/zBdZ4OqzbOI">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/K3S5wEwpWkw">📽️抖音</a> 
+  <a href="https://youtu.be/zBdZ4OqzbOI">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/K3S5wEwpWkw">📱直式</a> 
  </p>
 
 # 本形學　Ontology
