@@ -78,16 +78,24 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
 ##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜
+  <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/n1XlkcaPF6A">📱直式</a> 
 
 ##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
+  <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
 ##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)｜
+ <a href="https://youtu.be/B7lmkfmaMco">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/6C7lpbRwYgQ">📱直式</a> 
 
 ##[本形学之IC设计 (IC Design)](本形學之IC設計)｜
   <a href="https://youtu.be/ufkQCSiv-Q0">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/IroRdllUOw0">📱直式</a> 
 
 ##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)｜
+  <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/XicukGs_pII">📱直式</a> 
 
 ##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
