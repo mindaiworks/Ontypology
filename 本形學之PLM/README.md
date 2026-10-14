@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://youtu.be/cCGDbikHbYQ">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/XicukGs_pII">📽️抖音</a> 
+  <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/XicukGs_pII">📱直式</a> 
  </p>
 
 # 機械設計與 PLM 的應用
