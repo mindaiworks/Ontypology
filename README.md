@@ -77,7 +77,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
-##[本形学之Ontology與FDE (Ontology&FDE)](本形學之Ontology與FDE)
+##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)
 
 ##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)
 
