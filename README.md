@@ -84,6 +84,8 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 ##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)
 
 ##[本形学之IC设计 (IC Design)](本形學之IC設計)
+  <a href="https://youtu.be/ufkQCSiv-Q0">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/IroRdllUOw0">📱直式</a> 
 
 ##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)
 
