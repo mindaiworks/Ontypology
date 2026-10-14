@@ -28,17 +28,17 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 #空间本形 Space Type
 -----------------------------------------------
 
-##[簡介 (Space Type)](本形學-空間本形)
+##[簡介 (Space Type)](本形學-空間本形)｜
 
-##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)
+##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜
 
-##[单位形 (Unit Type)](本形學-空間本形/單位形)
+##[单位形 (Unit Type)](本形學-空間本形/單位形)｜
 
-##[空间框架 (FrameWork)](本形學-空間本形/空間框架)
+##[空间框架 (FrameWork)](本形學-空間本形/空間框架)｜
 
-##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)
+##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)｜
 
-##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)
+##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)｜
 
 ##[记忆管理 (Memory Management)--暂不开放]
 
@@ -77,17 +77,17 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
-##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)
+##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜
 
-##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)
+##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
 
-##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)
+##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)｜
 
-##[本形学之IC设计 (IC Design)](本形學之IC設計)
+##[本形学之IC设计 (IC Design)](本形學之IC設計)｜
   <a href="https://youtu.be/ufkQCSiv-Q0">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/IroRdllUOw0">📱直式</a> 
 
-##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)
+##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)｜
 
 ##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
