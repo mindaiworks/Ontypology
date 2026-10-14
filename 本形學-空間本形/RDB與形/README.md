@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://youtu.be/GB96818ERBw">🎞️youtube</a> ｜ 
- <a href="https://v.douyin.com/Pc-qeLbf-IU">📽️抖音</a> 
+  <a href="https://youtu.be/GB96818ERBw">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/Pc-qeLbf-IU">📱直式</a> 
  </p>
 
 # 本形學   Ontypology
