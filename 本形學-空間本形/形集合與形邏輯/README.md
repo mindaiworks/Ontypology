@@ -1,9 +1,9 @@
 <p align="center">
-  🎞️youtube
+  💻橫式
   <a href="https://youtu.be/ek580IvQRQA">簡介</a> ｜ 
   <a href="https://youtu.be/hG9KdjQCLGQ">公理化・定理・證明</a> 
   ｜ 
-  📽️抖音 
+ 📱直式 
   <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
  <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
  </p>
