@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
+ <a href="https://v.douyin.com/-Vc7lvhkEUY">📱直式</a> 
+ </p>
+
 **◆ 　 本形學（Ontypology） ◆**
 
 # 醫 藥 研 發 大 腦
