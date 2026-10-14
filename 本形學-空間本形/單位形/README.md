@@ -223,5 +223,3 @@ SOM 描述的是：一個物體同時具備空間容器的「邊界、內部空�
 张长丰 [gamma@livemail.tw](mailto:gamma@livemail.tw)
 
 张楟颍 [mindaiworks@gmail.com](mailto:mindaiworks@gmail.com)
-
-ss
