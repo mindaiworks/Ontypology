@@ -543,39 +543,6 @@ AI 兵棋推演的加速能力是一把雙刃劍：推演越快，錯誤知識�
 
 > **❖　讓每一次推演，都成為組織智慧的沉澱。**
 
-## 參考文獻
-
-[1]　何昆．美軍啟用新型人工智能兵棋推演系統［N］．中國國防報，2026-04-22（4）．人民網轉載：military.people.com.cn/BIG5/n1/2026/0422/c1011-40706297.html．
-
-[2]　LonGreat 研究團隊．本形學：空間本形篇［R］．2026．
-
-[3]　LonGreat 研究團隊．本形學：時間本形篇［R］．2026．
-
-[4]　LonGreat Mind AI 研究團隊．Mind AI 簡介［R］．2026．
-
-[5]　LonGreat 研究團隊．Mind AI 通往 AGI 的永恆之道［R］．2026．
-
-[6]　LonGreat 研究團隊．世界模型的大腦：本形學的準確方法［R］．2026．
-
-[7]　LonGreat 研究團隊．IC 設計大腦：SiliconMind 與 Verilog 的準確方法［R］．2026．
-
-[8]　LonGreat 研究團隊．醫藥研發大腦：PharmaMind 與藥物探索的準確方法［R］．2026．
-
-[9]　Allen, J. F. Maintaining Knowledge about Temporal Intervals［J］. Communications of the ACM, 1983, 26(11): 832-843.
-
-[10]　Belnap, N. D. A Useful Four-Valued Logic［M］//Modern Uses of Multiple-Valued Logic. Dordrecht: Reidel, 1977: 8-37.
-
-[11]　Perla, P. P. The Art of Wargaming［M］. Annapolis: Naval Institute Press, 1990.
-
-[12]　Sabin, P. Simulating War: Studying Conflict through Simulation Games［M］. London: Continuum, 2012.
-
-[13]　Codd, E. F. A Relational Model of Data for Large Shared Data Banks［J］. Communications of the ACM, 1970, 13(6): 377-387.
-
-[14]　Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software［M］. Addison-Wesley, 1994.
-
-[15]　Newell, A. Unified Theories of Cognition［M］. Cambridge: Harvard University Press, 1990.
-
-[16]　Scharre, P. Four Battlegrounds: Power in the Age of Artificial Intelligence［M］. New York: W. W. Norton, 2023.
 
 ## 附錄 A　三層判斷速查表
 
