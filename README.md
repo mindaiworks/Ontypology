@@ -110,11 +110,6 @@
  <a href="https://youtu.be/AlCgjccMln0">3</a> ｜ 
  <a href="https://v.douyin.com/6C7lpbRwYgQ">📱直式</a> 
 
-##[本形学之IC设计 (IC Design)](本形學之IC設計)｜
-  💻橫式<a href="https://youtu.be/ufkQCSiv-Q0">1</a> ｜ 
-  <a href="https://youtu.be/MeHW8yQkSoQ">2</a> ｜ 
-  <a href="https://youtu.be/DcOjs7vwzas">3</a> ｜ 
- <a href="https://v.douyin.com/IroRdllUOw0">📱直式</a> 
 
 ##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)｜
   <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
