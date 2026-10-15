@@ -124,10 +124,8 @@
 
   ##[本形学之中醫大腦(Chinese Medicine Brain)](中醫大腦) ｜ 
    <a href="https://youtu.be/k8v2ubMz3Ao">💻橫式</a> 
-  <a href="https://youtu.be/74TBbwPyKvQ">📱直式</a> 
+  <a href="https://youtu.be/6JW42uP6H8w">📱直式</a> 
 
-
- 
  
 
 ----------------------------------------
