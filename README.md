@@ -60,28 +60,29 @@
 
 ##[形時間函式搜尋 (Time function search)-暂不开放]
 
-##[设计模式 (Design Patterns)-暂不开放]
+##[設計模式 (Design Patterns)-暫不開放]
 
-##[逻辑生成與应用 (Logic generation and application)-暂不开放]
+##[邏輯生成與應用 (Logic generation and application)-暫不開放]
 
-##[持续学习 (Continuous learning)-暂不开放]
+##[持續學習 (Continuous learning)-暫不開放]
 
-##[重构與重组 (Restructuring and Reorganization)-暂不开放]
+##[重構與重組 (Restructuring and Reorganization)-暫不開放]
 
-##[解题 (Problem Analysis)-暂不开放]
+##[解題 (Problem Analysis)-暫不開放]
 
-##[分析 (Analysis)-暂不开放]
+##[分析 (Analysis)-暫不開放]
 
-##[设计 (Design)-暂不开放]
+##[設計 (Design)-暫不開放]
 
-##[推理 (Reasoning)-暂不开放]
+##[推理 (Reasoning)-暫不開放]
 
-##[思考法 (Thinking)-暂不开放]
+##[思考法 (Thinking)-暫不開放]
 
-##[自我演化 (Self-evolution)-暂不开放]
+##[自我演化 (Self-evolution)-暫不開放]
 
 
-#相关应用  Related Applications
+#相關應用  Related Applications
+
 -----------------------------------------------
 
 ##[Mind AI](https://github.com/mindaiworks/Paper)
@@ -134,10 +135,11 @@
 
 ----------------------------------------
 
-## 联系信息 Contact Information
-张长丰gamma@livemail.tw
+## 聯繫資訊 Contact Information
+張長豐 gamma@livemail.tw
 
-张楟颍mindaiworks@gmail.com
+張楟潁 mindaiworks@gmail.com
+
 
 ## www.longreat.net
 <p align="center" float="left">
