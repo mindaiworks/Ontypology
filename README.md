@@ -100,7 +100,7 @@
 
 ##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)｜
  💻橫式 <a href="https://youtu.be/B7lmkfmaMco">1</a> ｜ 
- <a href="https://youtu.be/JQj6MPL">2</a> ｜ 
+ <a href="https://youtu.be/JQj6MPL-bmc">2</a> ｜ 
  <a href="https://youtu.be/AlCgjccMln0">3</a> ｜ 
  <a href="https://v.douyin.com/6C7lpbRwYgQ">📱直式</a> 
 
