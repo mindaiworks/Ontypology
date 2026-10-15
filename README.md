@@ -125,6 +125,7 @@ Today, exploring "Type" (the concept of the brain) is philosophy. This study of 
  <a href="https://v.douyin.com/-Vc7lvhkEUY">📱直式</a> 
 
  ##[本形学之問診大腦(Brain consultation)](問診大腦) ｜ 
+ <a href="https://youtu.be/Q19bCWUDh_g">💻橫式</a> 
 
   ##[本形学之中醫大腦(Chinese Medicine Brain)](中醫大腦) ｜ 
 
