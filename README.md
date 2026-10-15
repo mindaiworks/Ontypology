@@ -53,7 +53,7 @@
   <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
  <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
 
-##[记忆管理 (Memory Management)--暂不开放]
+##[記憶管理 (Memory Management)--暫不開放]
 
 #時間本形 Time Type -暫不開放
 -----------------------------------------------
