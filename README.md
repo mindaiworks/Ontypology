@@ -55,30 +55,30 @@
 
 ##[记忆管理 (Memory Management)--暂不开放]
 
-#時間本形 Time Type
+#時間本形 Time Type -暫不開放
 -----------------------------------------------
 
-##[形時間函式搜尋 (Time function search)-暂不开放]
+##[形時間函式搜尋 (Time function search)]
 
-##[設計模式 (Design Patterns)-暫不開放]
+##[設計模式 (Design Patterns)]
 
-##[邏輯生成與應用 (Logic generation and application)-暫不開放]
+##[邏輯生成與應用 (Logic generation and application)]
 
-##[持續學習 (Continuous learning)-暫不開放]
+##[持續學習 (Continuous learning)]
 
-##[重構與重組 (Restructuring and Reorganization)-暫不開放]
+##[重構與重組 (Restructuring and Reorganization)]
 
-##[解題 (Problem Analysis)-暫不開放]
+##[解題 (Problem Analysis)]
 
-##[分析 (Analysis)-暫不開放]
+##[分析 (Analysis)]
 
-##[設計 (Design)-暫不開放]
+##[設計 (Design)]
 
-##[推理 (因果推理,果因推理......)-暫不開放]
+##[推理 (因果推理,果因推理,類比推理,統計推理,逆向推理......)]
 
-##[思考法 (Thinking)-暫不開放]
+##[思考法 (正向思考法,逆向思考法,水平思考法,垂直思考法,第一性原理思考法......)]
 
-##[自我演化 (Self-evolution)-暫不開放]
+##[自我演化 (Self-evolution)]
 
 
 #相關應用  Related Applications
