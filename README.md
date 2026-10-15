@@ -5,21 +5,15 @@
 </p>
 
 ![](本形學-空間本形/main.jpg)
-从异同到分合，从分合到形，从形到理解这条路，大脑走了亿万年。
+從異同到分合，從分合到形，從形到理解這條路，大腦走了億萬年。
 
-Type similarities and differences to separation and unity, from separation and unity to form, and from form to understanding, the brain has traversed this path for billions of years.
+邏輯學百年前是哲學，當看清楚後是顯學(科學) 。
 
-逻辑学百年前是哲学，当看清楚后是显学(科学) 。
+今探討「形」(大腦概念) 是哲學，本形學將「形」，看清楚轉成顯學(科學) ，並實踐化 Mind AI 。
 
-Logic was philosophy a century ago; once clearly understood, it became a prominent field of study (science).
+李飛飛：數字寒武紀的爆發
 
-今探讨「形」(大脑概念) 是哲学，本形学将「形」，看清楚转成显学(科学) ，并实践化 Mind AI 。
-
-Today, exploring "Type" (the concept of the brain) is philosophy. This study of Ontypology to clearly understand "Type" transforming it into a prominent field of study (science) and putting it into practice in Mind AI.
-
-李飞飞：数字寒武纪的爆发
-
-她讲到在遥远的寒武纪时代，一切都是漆黑的，有一种三叶虫的生物首先感知到光，感知到光以后发展出了神经系统，接下来就是「理解思考」最后执行。这就是生物发展的规律。
+她講到在遙遠的寒武紀時代，一切都是漆黑的，有一種三葉蟲的生物首先感知到光，感知到光以後發展出了神經系統，接下來就是「理解思考」最後執行。這就是生物發展的規律。
 
 ![](本形學-空間本形/MIND.jpg)
 
