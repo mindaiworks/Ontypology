@@ -129,7 +129,7 @@
  <a href="https://youtu.be/Q19bCWUDh_g">💻橫式</a> 
   <a href="https://youtu.be/74TBbwPyKvQ">📱直式</a> 
 
-  ##[本形学之中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ 
+  ##[中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ 
 
  
 
