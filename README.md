@@ -96,6 +96,8 @@
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
+  ##[IC設計(IC Design)](Applications/IC設計) 
+
 ##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/n1XlkcaPF6A">📱直式</a> 
@@ -127,9 +129,7 @@
  <a href="https://youtu.be/Q19bCWUDh_g">💻橫式</a> 
   <a href="https://youtu.be/74TBbwPyKvQ">📱直式</a> 
 
-  ##[本形学之中醫大腦(Chinese Medicine Brain)](中醫大腦) ｜ 
-   <a href="https://youtu.be/k8v2ubMz3Ao">💻橫式</a> 
-  <a href="https://youtu.be/6JW42uP6H8w">📱直式</a> 
+  ##[本形学之中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ 
 
  
 
