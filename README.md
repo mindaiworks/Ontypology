@@ -108,7 +108,7 @@
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
-##[本形学之世界模型的大腦 (Brain of the World Model)](本形學之世界模型的大腦)｜
+##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜
  💻橫式 <a href="https://youtu.be/B7lmkfmaMco">1</a> ｜ 
  <a href="https://youtu.be/JQj6MPL-bmc">2</a> ｜ 
  <a href="https://youtu.be/AlCgjccMln0">3</a> ｜ 
