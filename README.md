@@ -113,7 +113,7 @@
  <a href="https://v.douyin.com/6C7lpbRwYgQ">📱直式</a> 
 
 
-##[本形学之機械設計與PLM(Mechanical Design and PLM)](本形學之PLM)｜
+##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜
   <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/XicukGs_pII">📱直式</a> 
 
