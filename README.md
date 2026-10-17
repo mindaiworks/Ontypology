@@ -117,7 +117,7 @@
   <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/XicukGs_pII">📱直式</a> 
 
-##[本形学之兵棋大脑(Wargames Brain)](兵棋大腦) ｜ 
+##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ 
   <a href="https://youtu.be/NbvQTO81iLM">💻橫式</a> ｜ 
    <a href="https://v.douyin.com/hx7s5DgRzKg">📱直式</a> 
 
