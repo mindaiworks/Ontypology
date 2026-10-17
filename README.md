@@ -53,7 +53,7 @@
   <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
  <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
 
-##[形知識圖譜 (Type Knowledge Graph)](Applications/形知識圖譜)
+##[形知識圖譜 (Type Knowledge Graph)](Applications/形知識圖譜)｜ <a href="https://youtu.be/5-QM1hD9cyQ">💻橫式</a>
 
 ##[記憶管理 (Memory Management)--暫不開放]
 
@@ -98,30 +98,20 @@
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
-  ##[IC設計(IC Design)](Applications/IC設計) 
+  ##[IC設計(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
 
-##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜
-  <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/n1XlkcaPF6A">📱直式</a> 
+##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜ <a href="https://youtu.be/mciP93nyrUI">💻橫式</a>
 
 ##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
-##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜
- 💻橫式 <a href="https://youtu.be/B7lmkfmaMco">1</a> ｜ 
- <a href="https://youtu.be/JQj6MPL-bmc">2</a> ｜ 
- <a href="https://youtu.be/AlCgjccMln0">3</a> ｜ 
- <a href="https://v.douyin.com/6C7lpbRwYgQ">📱直式</a> 
+##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/L22mD9dm0vk">💻橫式</a>
+ 
 
+##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
 
-##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜
-  <a href="https://youtu.be/cCGDbikHbYQ">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/XicukGs_pII">📱直式</a> 
-
-##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ 
-  <a href="https://youtu.be/NbvQTO81iLM">💻橫式</a> ｜ 
-   <a href="https://v.douyin.com/hx7s5DgRzKg">📱直式</a> 
+##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/D54P9mwf-2k">💻橫式</a> 
 
 ##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
@@ -131,7 +121,7 @@
  <a href="https://youtu.be/Q19bCWUDh_g">💻橫式</a> 
   <a href="https://youtu.be/74TBbwPyKvQ">📱直式</a> 
 
-  ##[中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ 
+  ##[中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ <a href="https://youtu.be/3yPXG5DHj78">💻橫式</a>
 
  
 
