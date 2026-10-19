@@ -33,28 +33,13 @@
   <a href="https://v.douyin.com/1jMENGp2mf8">為什麼先有形，才有數</a> 
    <a href="https://v.douyin.com/WkOxsMUuxLI">為什麼算數前必須先定義「形」</a> 
 
-##[单位形 (Unit Type)](本形學-空間本形/單位形)｜
-  <a href="https://youtu.be/6y4EZyKeGhk">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/Z6qcrkO2J5U">📱直式</a> 
+##[單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
  
-##[空间框架 (FrameWork)](本形學-空間本形/空間框架)｜
-  <a href="https://youtu.be/ek3m6X2idWk">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/ETtNqubX3mw">📱直式</a> 
+##[空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">💻橫式</a> 
 
-##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)｜
-  <a href="https://youtu.be/GB96818ERBw">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/Pc-qeLbf-IU">📱直式</a> 
+##[关联式资料库与形的关系 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">💻橫式</a> ｜ 
 
-##[形集合与形逻辑 (Type sets and Type logic)](本形學-空間本形/形集合與形邏輯)｜
-  💻橫式
-  <a href="https://youtu.be/ek580IvQRQA">簡介</a> ｜ 
-  <a href="https://youtu.be/hG9KdjQCLGQ">公理化・定理・證明</a> 
-  ｜ 
- 📱直式 
-  <a href="https://v.douyin.com/fTPhFyduJY8">簡介</a> ｜ 
- <a href="https://v.douyin.com/MDeWvl0yM">公理化・定理・證明</a> 
-
-##[形知識圖譜 (Type Knowledge Graph)](Applications/形知識圖譜)｜ <a href="https://youtu.be/5-QM1hD9cyQ">💻橫式</a>
+##[數學證明)](Applications/5.數學證明)｜ <a href="https://youtu.be/5-QM1hD9cyQ">💻橫式</a>
 
 ##[記憶管理 (Memory Management)--暫不開放]
 
