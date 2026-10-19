@@ -94,8 +94,9 @@
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
-##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/L22mD9dm0vk">💻橫式</a>
- 
+##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/_1OlOUPMm5Y">💻橫式</a>
+
+ ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
 ##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
 
