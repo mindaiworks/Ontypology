@@ -27,7 +27,8 @@
  <a href="https://v.douyin.com/K3S5wEwpWkw">📱直式</a> 
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜
-  <a href="https://youtu.be/dANUjKB41GU">💻橫式</a> ｜ 📱直式
+  💻橫式<a href="https://youtu.be/dANUjKB41GU">1</a>
+  <a href="https://youtu.be/sslkKIcFPBc">2</a> ｜ 📱直式
   <a href="https://v.douyin.com/aR9I8UDoZRs">為什麼不同東西能相加</a> 
   <a href="https://v.douyin.com/1jMENGp2mf8">為什麼先有形，才有數</a> 
    <a href="https://v.douyin.com/WkOxsMUuxLI">為什麼算數前必須先定義「形」</a> 
