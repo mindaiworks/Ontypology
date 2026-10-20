@@ -86,31 +86,35 @@
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
-##[AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻橫式</a>
-
-##[IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
-
-##[AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
-
-##[本形學之本體論與FDE(Ontology&FDE)](Applications/Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
+-----------------------------------------------
 
 ##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
 
- ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
+-----------------------------------------------
+
+##[本形學之本體論與FDE(Ontology&FDE)](Applications/Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
+
+##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
+
+-----------------------------------------------
+
+##[AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻橫式</a>
+
+##[AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
+
+##[AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+
+##[AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+
+##[AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+
+##[IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
 
 ##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
 
 ##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">💻橫式</a> 
 
-##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
-  <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/-Vc7lvhkEUY">📱直式</a> 
 
- ##[本形学之問診大腦(Brain consultation)](問診大腦) ｜ 
- <a href="https://youtu.be/Q19bCWUDh_g">💻橫式</a> 
-  <a href="https://youtu.be/74TBbwPyKvQ">📱直式</a> 
-
-  ##[中醫大腦(Chinese Medicine Brain)](Applications/中醫大腦) ｜ <a href="https://youtu.be/3yPXG5DHj78">💻橫式</a>
 
  
 
