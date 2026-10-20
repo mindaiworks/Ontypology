@@ -94,10 +94,6 @@
 
 ##[本形學之本體論與FDE(Ontology&FDE)](Applications/Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
 
-##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
-  <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
-
 ##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
 
  ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
