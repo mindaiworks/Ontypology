@@ -92,7 +92,7 @@
 
 -----------------------------------------------
 
-##[本形學之本體論與FDE(Ontology&FDE)](Applications/Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
+##[本形學之本體論與FDE(Ontology&FDE)](Applications/Ontology與FDE)｜ <a href="https://youtu.be/rO1RiOMu19Q">💻橫式</a>
 
 ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
