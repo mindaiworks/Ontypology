@@ -22,9 +22,7 @@
 #空间本形 Space Type
 -----------------------------------------------
 
-##[簡介 (Space Type)](本形學-空間本形)｜
-  <a href="https://youtu.be/zBdZ4OqzbOI">💻橫式</a> ｜ 
- <a href="https://v.douyin.com/K3S5wEwpWkw">📱直式</a> 
+##[簡介 (Space Type)](本形學-空間本形)
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜
   💻橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a>
