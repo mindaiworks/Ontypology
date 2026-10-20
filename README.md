@@ -92,7 +92,7 @@
 
 ##[AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
 
-##[本形學之本體論與FDE(Ontology&FDE)](本形學之Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
+##[本形學之本體論與FDE(Ontology&FDE)](Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
 
 ##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
