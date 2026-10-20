@@ -86,21 +86,25 @@
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
-  ##[IC設計(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
+##[AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻橫式</a>
 
-##[本形学之本体论與FDE (Ontology&FDE)](本形學之Ontology與FDE)｜ <a href="https://youtu.be/mciP93nyrUI">💻橫式</a>
+##[IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
+
+##[AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
+
+##[本形學之本體論與FDE(Ontology&FDE)](本形學之Ontology與FDE)｜ <a href="https://youtu.be/1a8pigyAS6k">💻橫式</a>
 
 ##[本形学之數學證明 (Mathematical proof)](本形學之數學證明)｜
   <a href="https://youtu.be/27_DodMKORs">💻橫式</a> ｜ 
  <a href="https://v.douyin.com/_zUWaaC-I38">📱直式</a> 
 
-##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/_1OlOUPMm5Y">💻橫式</a>
+##[世界模型的大腦 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
 
  ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
 ##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
 
-##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/D54P9mwf-2k">💻橫式</a> 
+##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">💻橫式</a> 
 
 ##[本形学之医药研发(Drug development)](醫藥研發) ｜ 
   <a href="https://youtu.be/9zd38zjlrTo">💻橫式</a> ｜ 
