@@ -1,6 +1,6 @@
 # 本體論與本形學的關係
 
-**準確使用方法與架構・內容完整方案**
+![image1.png](main.jpg)
 
 *Ontology × Ontypology*
 
