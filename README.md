@@ -53,7 +53,7 @@
 
 ##[Mind AI](https://github.com/mindaiworks/Paper)
 
-##[知识图谱物料清单 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
+##[知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
 ##[本形学之RAG(准确度100%,有轨迹)--既将推出]
 
