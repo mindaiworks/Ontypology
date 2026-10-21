@@ -25,10 +25,7 @@
 ##[簡介 (Space Type)](本形學-空間本形)
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜💻橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> 
-
-📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs">為什麼不同東西能相加</a> 
-  <a href="https://v.douyin.com/1jMENGp2mf8">為什麼先有形，才有數</a> 
-   <a href="https://v.douyin.com/WkOxsMUuxLI">為什麼算數前必須先定義「形」</a> 
+｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs">1</a> <a href="https://v.douyin.com/1jMENGp2mf8">1</a>  <a href="https://v.douyin.com/WkOxsMUuxLI">2</a> 
 
 ##[單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
  
