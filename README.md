@@ -83,9 +83,9 @@
 
 ##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">💻橫式</a> 
 
-##[AI企業資訊系統整合](Applications/AI企業資訊系統整合) 
+##[AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
 
-##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) 
+##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻橫式</a> 
 
  
 
