@@ -33,6 +33,8 @@
 
 ##[數學證明](本形學-空間本形/5.數學證明)｜ <a href="https://youtu.be/t4HXf0Vs_q4">💻橫式</a>
 
+##[6.形集合的運算式](本形學-空間本形/形集合的運算式)
+
 ##[關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">💻橫式</a> ｜ 
 
 
@@ -64,6 +66,8 @@
 ##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻橫式</a>
 
 ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
+
+##[液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">💻橫式</a>
 
 -----------------------------------------------
 
