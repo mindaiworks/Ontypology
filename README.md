@@ -73,9 +73,9 @@
 
 ##[AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
 
-##[AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+##[AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/npZXEc4Mdys">💻橫式</a>
 
-##[AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+##[AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">💻橫式</a>
 
 ##[IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
 
