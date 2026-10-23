@@ -59,7 +59,7 @@
 
 -----------------------------------------------
 
-##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻橫式</a>
+##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻橫式</a><a href="https://youtu.be/WGKERBAyIbM">⏯️簡報</a>
 
 ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
