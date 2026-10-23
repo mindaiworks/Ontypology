@@ -51,8 +51,6 @@
 
 ##[知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
-##[本形学之RAG(准确度100%,有轨迹)--既将推出]
-
 -----------------------------------------------
 
 ##[世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
