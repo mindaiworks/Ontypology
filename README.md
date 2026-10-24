@@ -61,6 +61,8 @@
 
 ##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻橫式</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報</a>
 
+##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻橫式</a> ｜<a href="https://youtu.be/eA8flS--KqU">⏯️簡報</a> 
+
 ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
 ##[液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">💻橫式</a>
@@ -85,7 +87,7 @@
 
 ##[AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
 
-##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻橫式</a> 
+
 
  
 
