@@ -87,7 +87,7 @@
 
 ##[AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
 
-##[AI 資訊安全](Applications/AI 資訊安全) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
+##[AI 資訊安全](Applications/AI資訊安全) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
 
 
 
