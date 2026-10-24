@@ -1,4 +1,4 @@
-# :star:本形学　Ontypology:star:
+# :star:本形學　Ontypology:star:
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a> ｜ 
   <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
@@ -17,7 +17,7 @@
 
 ----------------------------------------
 
-#空间本形 Space Type
+#空間本形 Space Type
 -----------------------------------------------
 
 ##[簡介 (Space Type)](本形學-空間本形)
