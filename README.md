@@ -33,7 +33,7 @@
 
 ##[形集合的運算式](本形學-空間本形/形集合的運算式)｜ <a href="https://youtu.be/chFXFGJR1bA">💻橫式</a>
 
-##[關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">💻橫式</a> ｜ 
+##[關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">💻視頻</a>｜<a href="https://youtu.be/jhgfOCtmwww">⏯️簡報視頻</a>
 
 
 
