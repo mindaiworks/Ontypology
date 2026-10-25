@@ -59,7 +59,7 @@
 
 -----------------------------------------------
 
-##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻橫式</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報</a>
+##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
 
 ##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻橫式</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報</a> 
 
@@ -83,7 +83,7 @@
 
 ##[機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
 
-##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">💻橫式</a> 
+##[兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">💻橫式</a> 💻視頻</a>｜<a href="https://youtu.be/hl8j0xcxKeo">⏯️簡報視頻</a>
 
 ##[AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">💻橫式</a>
 
