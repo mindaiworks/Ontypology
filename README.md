@@ -24,6 +24,7 @@
 
 ##[形与数 (TypeNumber)](本形學-空間本形/1.形與數)｜💻橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> 
 ｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs">1</a> <a href="https://v.douyin.com/1jMENGp2mf8">2</a>  <a href="https://v.douyin.com/WkOxsMUuxLI">3</a> 
+｜<a href="https://youtu.be/6gvHw10oI3Q">⏯️簡報視頻</a>
 
 ##[單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
  
