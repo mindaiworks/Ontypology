@@ -61,7 +61,7 @@
 
 ##[本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">💻視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
 
-##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻橫式</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報</a> 
+##[Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">💻視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
 
 ##[知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">💻橫式</a>
 
@@ -69,7 +69,9 @@
 
 -----------------------------------------------
 
-##[AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻橫式</a>
+##[AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻視頻</a> ｜<a href="https://youtu.be/xQdtWS-4bFA">⏯️簡報視頻</a> 
+
+https://youtu.be/xQdtWS-4bFA
 
 ##[AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
 
