@@ -54,6 +54,8 @@
 
 -----------------------------------------------
 
+- [LLM vs Mind Model (物理AI, 工業級AI,世界模型)](MindAI/LLM%20vs%20Mind%20Model)｜ <a href="https://youtu.be/F-DhYt2M48s">💻視頻</a> 
+
 ##[世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
 
 ##[世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">💻橫式</a>
