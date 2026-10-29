@@ -81,6 +81,8 @@
 
 ## [AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">💻橫式</a>
 
+## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">💻橫式</a>
+
 ## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">💻橫式</a>
 
 ## [機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">💻橫式</a>
