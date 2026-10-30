@@ -69,6 +69,8 @@
 
 ## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">💻橫式</a>
 
+## [物理證明](本形學/物理證明)
+
 -----------------------------------------------
 
 ## [AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻視頻</a> ｜<a href="https://youtu.be/xQdtWS-4bFA">⏯️簡報視頻</a> 
