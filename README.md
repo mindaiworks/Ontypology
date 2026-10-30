@@ -44,6 +44,21 @@
 
 -----------------------------------------------
 
+# 理論應用  Theoretical Application
+
+## [本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">🎥視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
+
+## [Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">🎥視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
+
+## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>
+
+## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>
+
+## [物理證明](本形學/物理證明)｜<a href="https://youtu.be/zl0EPwxPLXQ">🎥視頻</a> ｜<a href="https://youtu.be/4YA2uC_COvk">⏯️簡報視頻</a>
+
+## [化學證明](本形學/化學證明)
+
+-----------------------------------------------
 
 # 相關應用  Related Applications
 
@@ -60,18 +75,6 @@
 ## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
 
 ## [世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">💻橫式</a>
-
------------------------------------------------
-
-## [本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">🎥視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
-
-## [Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">🎥視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
-
-## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>
-
-## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>
-
-## [物理證明](本形學/物理證明)｜<a href="https://youtu.be/zl0EPwxPLXQ">🎥視頻</a> ｜<a href="https://youtu.be/4YA2uC_COvk">⏯️簡報視頻</a>
 
 -----------------------------------------------
 
