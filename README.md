@@ -56,7 +56,7 @@
 
 ## [物理證明](本形學/物理證明)｜<a href="https://youtu.be/zl0EPwxPLXQ">🎥視頻</a> ｜<a href="https://youtu.be/4YA2uC_COvk">⏯️簡報視頻</a>
 
-## [化學證明](本形學/化學證明)
+## [化學證明](本形學/化學證明)｜<a href="https://youtu.be/25qIfZ2X4Wc">🎥視頻</a> ｜<a href="https://youtu.be/X1rkkMnZiJA">⏯️簡報視頻</a>
 
 -----------------------------------------------
 
