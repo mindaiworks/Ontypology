@@ -60,15 +60,11 @@
 
 -----------------------------------------------
 
-# 相關應用  Related Applications
-
------------------------------------------------
+# 模型應用  Model Application
 
 ## [Mind AI](https://github.com/mindaiworks/Paper)
 
 ## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
-
------------------------------------------------
 
 ## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
@@ -77,6 +73,9 @@
 ## [世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">💻橫式</a>
 
 -----------------------------------------------
+
+
+# 商業應用  Business Applications
 
 ## [AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻視頻</a> ｜<a href="https://youtu.be/xQdtWS-4bFA">⏯️簡報視頻</a> 
 
