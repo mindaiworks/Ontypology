@@ -51,7 +51,7 @@
 
 ## [Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">🎥視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
 
-## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>
+## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>｜<a href="https://youtu.be/CI8vtaPVOlg">⏯️簡報視頻</a> 
 
 ## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>
 
