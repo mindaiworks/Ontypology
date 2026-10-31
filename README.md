@@ -98,7 +98,7 @@
 
 ## [兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">🎥視頻</a>｜<a href="https://youtu.be/hl8j0xcxKeo">⏯️簡報視頻</a>
 
-## [AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">🎥橫式</a>
+## [AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">🎥橫式</a>｜<a href="https://youtu.be/jcprsTsHRjE">⏯️簡報視頻</a>
 
 ## [AI 資訊安全](Applications/AI資訊安全) ｜ <a href="https://youtu.be/_IXwbzEHUpc">🎥橫式</a>
 
