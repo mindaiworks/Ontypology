@@ -29,13 +29,13 @@
 
 ## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
  
-## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">💻橫式</a> 
+## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥橫式</a> 
 
-## [數學證明](本形學-空間本形/5.數學證明)｜ <a href="https://youtu.be/t4HXf0Vs_q4">💻橫式</a>
+## [數學證明](本形學-空間本形/5.數學證明)｜ <a href="https://youtu.be/t4HXf0Vs_q4">🎥視頻</a>｜<a href="https://youtu.be/Boe2Yufg3cs">⏯️簡報視頻</a>
 
-## [形集合的運算式](本形學-空間本形/形集合的運算式)｜ <a href="https://youtu.be/chFXFGJR1bA">💻視頻</a>｜<a href="https://youtu.be/EzcFTYrraRA">⏯️簡報視頻</a>
+## [形集合的運算式](本形學-空間本形/形集合的運算式)｜ <a href="https://youtu.be/chFXFGJR1bA">🎥視頻</a>｜<a href="https://youtu.be/EzcFTYrraRA">⏯️簡報視頻</a>
 
-## [關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">💻視頻</a>｜<a href="https://youtu.be/jhgfOCtmwww">⏯️簡報視頻</a>
+## [關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜<a href="https://youtu.be/jhgfOCtmwww">⏯️簡報視頻</a>
 
 
 
@@ -78,9 +78,9 @@
 
 # 商業應用  Business Applications
 
-## [AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">💻視頻</a> ｜<a href="https://youtu.be/xQdtWS-4bFA">⏯️簡報視頻</a> 
+## [AI中醫問診與開方](Applications/AI中醫問診與開方) ｜ <a href="https://youtu.be/_Dx45ApAG_c">🎥視頻</a> ｜<a href="https://youtu.be/WPI_nBU5eZg">⏯️簡報視頻</a> 
 
-## [AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">💻橫式</a>
+## [AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">🎥視頻</a> ｜<a href="https://youtu.be/EJ1irXLCDJo">⏯️簡報視頻</a> 
 
 ## [AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
 
