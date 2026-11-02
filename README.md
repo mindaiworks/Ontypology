@@ -69,7 +69,7 @@
 
 ## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
-## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">💻橫式</a>
+## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">🎥視頻</a> ｜<a href="https://youtu.be/LFr9uee2QTM">⏯️簡報視頻</a> 
 
 ## [世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">💻橫式</a>
 
@@ -82,7 +82,7 @@
 
 ## [AI西醫問診與開藥](Applications/AI西醫問診與開藥) ｜ <a href="https://youtu.be/nlClo5scKX0">🎥視頻</a> ｜<a href="https://youtu.be/EJ1irXLCDJo">⏯️簡報視頻</a> 
 
-## [AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">💻橫式</a>
+## [AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">🎥視頻</a> ｜<a href="https://youtu.be/l3bcPg_P8Ok">⏯️簡報視頻</a> 
 
 ## [AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/npZXEc4Mdys">🎥橫式</a>
 
