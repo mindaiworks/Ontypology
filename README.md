@@ -53,7 +53,7 @@
 
 ## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>｜<a href="https://youtu.be/CI8vtaPVOlg">⏯️簡報視頻</a> 
 
-## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>｜<a href="https://youtu.be/wHe54kbREp0">⏯️簡報視頻2</a>
+## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>｜<a href="https://youtu.be/wHe54kbREp0">⏯️簡報視頻</a>
 
 ## [物理證明](本形學/物理證明)｜<a href="https://youtu.be/zl0EPwxPLXQ">🎥視頻</a> ｜<a href="https://youtu.be/4YA2uC_COvk">⏯️簡報視頻</a>
 
