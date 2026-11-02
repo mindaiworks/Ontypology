@@ -29,7 +29,7 @@
 
 ## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
  
-## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥橫式</a> 
+## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥視頻</a>｜<a href="https://youtu.be/jJOFxT0Ltr8">⏯️簡報視頻1</a>｜<a href="https://youtu.be/fbFrKmbyt4A">⏯️簡報視頻2</a>
 
 ## [數學證明](本形學-空間本形/5.數學證明)｜ <a href="https://youtu.be/t4HXf0Vs_q4">🎥視頻</a>｜<a href="https://youtu.be/Boe2Yufg3cs">⏯️簡報視頻</a>
 
@@ -53,7 +53,7 @@
 
 ## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>｜<a href="https://youtu.be/CI8vtaPVOlg">⏯️簡報視頻</a> 
 
-## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>
+## [液態神經網路與本形學](本形學/液態神經網路與本形學)｜<a href="https://youtu.be/o11Vq2fEokg">🎥視頻</a>｜<a href="https://youtu.be/wHe54kbREp0">⏯️簡報視頻2</a>
 
 ## [物理證明](本形學/物理證明)｜<a href="https://youtu.be/zl0EPwxPLXQ">🎥視頻</a> ｜<a href="https://youtu.be/4YA2uC_COvk">⏯️簡報視頻</a>
 
