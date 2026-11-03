@@ -59,6 +59,8 @@
 
 ## [化學證明](本形學/化學證明)｜<a href="https://youtu.be/25qIfZ2X4Wc">🎥視頻</a> ｜<a href="https://youtu.be/X1rkkMnZiJA">⏯️簡報視頻</a>
 
+## [數學建模 ](本形學/數學建模)
+
 -----------------------------------------------
 
 # 模型應用  Model Application
