@@ -27,7 +27,7 @@
 
 💻橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> ｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs">1</a> <a href="https://v.douyin.com/1jMENGp2mf8">2</a>  <a href="https://v.douyin.com/WkOxsMUuxLI">3</a> ｜<a href="https://youtu.be/oCr2rVOkBkE">⏯️簡報視頻</a>
 
-## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">💻橫式</a>
+## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">🎥視頻</a>｜<a href="https://youtu.be/s5X7Bbj-13I">⏯️簡報視頻</a>
  
 ## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥視頻</a>｜<a href="https://youtu.be/jJOFxT0Ltr8">⏯️簡報視頻1</a>｜<a href="https://youtu.be/fbFrKmbyt4A">⏯️簡報視頻2</a>
 
@@ -71,7 +71,7 @@
 
 ## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">🎥視頻</a> ｜<a href="https://youtu.be/LFr9uee2QTM">⏯️簡報視頻</a> 
 
-## [世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">💻橫式</a>
+## [世界模型的大腦2 (Brain of the World Model)](本形學/世界模型大腦2)｜<a href="https://youtu.be/FO8IzAv1vtQ">🎥視頻</a> ｜<a href="https://youtu.be/9kuA74_uWoQ">⏯️簡報視頻</a> 
 
 -----------------------------------------------
 
@@ -88,11 +88,11 @@
 
 ## [AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">🎥橫式</a>
 
-## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">🎥視頻</a> 
+## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">🎥視頻</a>  ｜<a href="https://youtu.be/exJlOLYe6yI">⏯️簡報視頻</a> 
 
 ----------------------------------------
 
-## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥橫式</a>
+## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥橫式</a>｜<a href="https://youtu.be/8_0LRqNv-wQ">⏯️簡報視頻</a> 
 
 ## [機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">🎥橫式</a>
 
