@@ -84,7 +84,7 @@
 
 ## [AI生物實驗大腦](Applications/AI生物實驗大腦) ｜ <a href="https://youtu.be/CFisdQ_WGlE">🎥視頻</a> ｜<a href="https://youtu.be/l3bcPg_P8Ok">⏯️簡報視頻</a> 
 
-## [AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/npZXEc4Mdys">🎥橫式</a>
+## [AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/npZXEc4Mdys">🎥橫式</a> ｜<a href="https://youtu.be/P88hL20XGDg">⏯️簡報視頻</a> 
 
 ## [AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">🎥橫式</a>
 
