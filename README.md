@@ -37,8 +37,6 @@
 
 ## [關聯式資料庫與形的關係 (RDB and Type)](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜<a href="https://youtu.be/jhgfOCtmwww">⏯️簡報視頻1</a>｜<a href="https://youtu.be/ZJiNyYRnpag">⏯️簡報視頻2</a>
 
-## [記憶管理 (Memory Management)--暫不開放]
-
 # [時間本形 Time Type](本形學-時間本形)
 
 -----------------------------------------------
