@@ -2,6 +2,10 @@
 # 時間本形 Time Type -暫不開放
 -----------------------------------------------
 
+## [記憶管理 (Memory Management)]
+
+## [注意力 (Attention)]
+
 ## [形時間函式搜尋 (Time function search)]
 
 ## [設計搜尋與萃取]
