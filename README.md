@@ -86,21 +86,21 @@
 
 ## [AI藥物研發大腦](Applications/AI藥物研發大腦) ｜ <a href="https://youtu.be/npZXEc4Mdys">🎥橫式</a> ｜<a href="https://youtu.be/P88hL20XGDg">⏯️簡報視頻</a> 
 
-## [AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">🎥橫式</a>
+## [AI基因研發大腦](Applications/AI基因研發大腦) ｜ <a href="https://youtu.be/YRcJ2yX8vgE">🎥橫式</a>｜<a href="https://youtu.be/5vnmFimvmOQ">⏯️簡報視頻</a> 
 
 ## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">🎥視頻</a>  ｜<a href="https://youtu.be/exJlOLYe6yI">⏯️簡報視頻</a> 
 
 ----------------------------------------
 
-## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥橫式</a>｜<a href="https://youtu.be/8_0LRqNv-wQ">⏯️簡報視頻</a> 
+## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥視頻</a>｜<a href="https://youtu.be/8_0LRqNv-wQ">⏯️簡報視頻</a> 
 
-## [機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">🎥橫式</a>
+## [機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">🎥視頻</a>｜<a href="https://youtu.be/Rg4TCR1PzPo">⏯️簡報視頻</a>
 
 ## [兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">🎥視頻</a>｜<a href="https://youtu.be/hl8j0xcxKeo">⏯️簡報視頻</a>
 
-## [AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">🎥橫式</a>｜<a href="https://youtu.be/jcprsTsHRjE">⏯️簡報視頻</a>
+## [AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">🎥視頻</a>｜<a href="https://youtu.be/jcprsTsHRjE">⏯️簡報視頻</a>
 
-## [AI 資訊安全](Applications/AI資訊安全) ｜ <a href="https://youtu.be/_IXwbzEHUpc">🎥橫式</a>
+## [AI 資訊安全](Applications/AI資訊安全) ｜ <a href="https://youtu.be/_IXwbzEHUpc">🎥視頻</a>｜<a href="https://youtu.be/KUGqLBAEfLg">⏯️簡報視頻</a>
 
 
  
