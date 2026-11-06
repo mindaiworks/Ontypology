@@ -61,6 +61,8 @@
 
 # 模型應用  Model Application
 
+## [Mind RAG](本形學/MindRAG)
+
 ## [Mind AI](https://github.com/mindaiworks/Paper)
 
 ## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
