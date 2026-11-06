@@ -89,7 +89,7 @@
 ## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">🎥視頻</a>  ｜<a href="https://youtu.be/exJlOLYe6yI">⏯️簡報視頻</a> 
 
 ----------------------------------------
-## [AI無人機大腦](Applications/AI無人機大腦)
+## [AI無人機大腦](Applications/AI無人機大腦)｜<a href="https://youtu.be/5oetNhZFoYY">⏯️簡報視頻</a> 
 
 ## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥視頻</a>｜<a href="https://youtu.be/8_0LRqNv-wQ">⏯️簡報視頻</a> 
 
