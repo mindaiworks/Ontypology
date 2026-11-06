@@ -41,6 +41,16 @@
 
 -----------------------------------------------
 
+# 系统 System
+
+## [Mind RAG](本形學/MindRAG)
+
+## [Mind AI](https://github.com/mindaiworks/Paper)
+
+## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
+
+## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
+
 # 理論應用  Theoretical Application
 
 ## [本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">🎥視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
@@ -60,14 +70,6 @@
 -----------------------------------------------
 
 # 模型應用  Model Application
-
-## [Mind RAG](本形學/MindRAG)
-
-## [Mind AI](https://github.com/mindaiworks/Paper)
-
-## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
-
-## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
 ## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">🎥視頻</a> ｜<a href="https://youtu.be/LFr9uee2QTM">⏯️簡報視頻</a> 
 
