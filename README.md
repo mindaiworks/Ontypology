@@ -49,7 +49,7 @@
 
 ## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
-## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/LlAfHmgGXMU">⏯️簡報視頻</a>
+## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/lcdQNhTb_Po">⏯️簡報視頻</a>
 
 # 理論應用  Theoretical Application
 
