@@ -43,13 +43,13 @@
 
 # 系统 System
 
-## [Mind RAG](本形學/MindRAG)
-
 ## [Mind AI](https://github.com/mindaiworks/Paper)
 
 ## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
 ## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
+
+## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/LlAfHmgGXMU">⏯️簡報視頻</a>
 
 # 理論應用  Theoretical Application
 
