@@ -27,7 +27,7 @@
 
 ## [形与数 (TypeNumber)](本形學-空間本形/1.形與數)
 
-💻橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> ｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs"> 1 </a> <a href="https://v.douyin.com/1jMENGp2mf8"> 2 </a>  <a href="https://v.douyin.com/WkOxsMUuxLI"> 3 </a> ｜<a href="https://youtu.be/oCr2rVOkBkE">⏯️簡報視頻1</a>｜<a href="https://youtu.be/jlnhAv5dJsg">⏯️簡報視頻2</a>
+🎥橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> ｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs"> 1 </a> <a href="https://v.douyin.com/1jMENGp2mf8"> 2 </a>  <a href="https://v.douyin.com/WkOxsMUuxLI"> 3 </a> ｜<a href="https://youtu.be/oCr2rVOkBkE">⏯️簡報視頻1</a>｜<a href="https://youtu.be/jlnhAv5dJsg">⏯️簡報視頻2</a>
 
 ## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">🎥視頻</a>｜<a href="https://youtu.be/s5X7Bbj-13I">⏯️簡報視頻</a>
  
@@ -37,7 +37,7 @@
 
 ## [形集合的運算式](本形學-空間本形/形集合的運算式)｜ <a href="https://youtu.be/chFXFGJR1bA">🎥視頻</a>｜<a href="https://youtu.be/EzcFTYrraRA">⏯️簡報視頻</a>
 
-## [關聯式資料庫與形的關係](本形學-空間本形/RDB與形)｜  <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜⏯️簡報視頻<a href="https://youtu.be/jhgfOCtmwww"> 1 </a>｜<a href="https://youtu.be/ZJiNyYRnpag"> 2 </a>
+## [關聯式資料庫與形的關係](本形學-空間本形/RDB與形)｜ <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜⏯️簡報視頻<a href="https://youtu.be/jhgfOCtmwww"> 1 </a>｜<a href="https://youtu.be/ZJiNyYRnpag"> 2 </a>
 
 # 🔑[時間本形 Time Type](本形學-時間本形)🔑
 
@@ -49,7 +49,7 @@
 
 ## [知識圖譜物料清單 (Knowledge Graph Bill of Materials)](https://github.com/mindaiworks/Paper/tree/main/Knowledge%20Graph%20Bom)
 
-## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
+## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">🎥視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
 ## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/lcdQNhTb_Po">⏯️簡報視頻</a>
 
