@@ -57,6 +57,8 @@
 
 ## [本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">🎥視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
 
+## [依值型別論與形式化驗證 Dependent Type × Lean](本形學/DependentTypeLean)
+
 ## [Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">🎥視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
 
 ## [知識圖譜不足處](Applications/知識圖譜不足處)｜<a href="https://youtu.be/m1HNeISyntU">🎥視頻</a>｜<a href="https://youtu.be/CI8vtaPVOlg">⏯️簡報視頻</a> 
