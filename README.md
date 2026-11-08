@@ -1,7 +1,7 @@
 # :star:本形學　Ontypology:star:
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a> ｜ 
-  <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
+  <a href="https://github.com/mindaiworks/Paper"> 📖 Mind AI</a>
 </p>
 
 ![](本形學-空間本形/main.jpg)
