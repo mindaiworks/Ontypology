@@ -37,7 +37,7 @@ Ontypology 本形學 = Ont 本體 + typology 類型學 。
 
 ## [形集合的運算式](本形學-空間本形/形集合的運算式)｜ <a href="https://youtu.be/chFXFGJR1bA">🎥視頻</a>｜<a href="https://youtu.be/EzcFTYrraRA">⏯️簡報視頻</a>
 
-## [關聯式資料庫與形的關係](本形學-空間本形/RDB與形)｜ <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜⏯️簡報視頻<a href="https://youtu.be/jhgfOCtmwww"> 1 </a>｜<a href="https://youtu.be/ZJiNyYRnpag"> 2 </a>
+## [關聯式資料庫與形的關係](本形學-空間本形/RDB與形)｜ <a href="https://youtu.be/VPQ2FZP5Kis">🎥視頻</a>｜⏯️簡報視頻 <a href="https://youtu.be/jhgfOCtmwww"> 1 </a>｜<a href="https://youtu.be/ZJiNyYRnpag"> 2 </a>
 
 # 🔑[時間本形 Time Type](本形學-時間本形)🔑
 
