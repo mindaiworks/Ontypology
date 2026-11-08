@@ -11,7 +11,7 @@
 
 今探討「形」(大腦概念) 是哲學，本形學將「形」，看清楚轉成顯學(科學) ，並實踐化 Mind AI 。
 
-本形學　Ontypology = Ont本體 + typology 類型學 。
+Ontypology 本形學 = Ont 本體 + typology 類型學 。
 
 李飛飛：數字寒武紀的爆發
 
