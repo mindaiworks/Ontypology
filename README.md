@@ -51,13 +51,13 @@
 
 ## [LLM vs Mind Model(物理AI, 工業級AI,世界模型)](https://github.com/mindaiworks/Paper/tree/main/MindAI/LLM%20vs%20Mind%20Model)｜<a href="https://youtu.be/F-DhYt2M48s">🎥視頻</a>｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
-## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/lcdQNhTb_Po">⏯️簡報視頻</a>
+## [Mind RAG](本形學/MindRAG)｜<a href="https://youtu.be/IALlM1Wh3GM">🎥視頻</a>｜<a href="https://youtu.be/lcdQNhTb_Po">⏯️簡報視頻</a>
 
 # 理論應用  Theoretical Application
 
 ## [本體論與本形學 Ontology × Ontypology](本形學/本體論與本形學)｜<a href="https://youtu.be/gQByZajS710">🎥視頻</a>｜<a href="https://youtu.be/WGKERBAyIbM">⏯️簡報視頻</a>
 
-## [依值型別論與形式化驗證 Dependent Type × Lean](本形學/DependentTypeLean)｜<a href="https://youtu.be/JSgg2wudKQs">⏯️簡報視頻</a>
+## [依值型別論與形式化驗證 Dependent Type × Lean](本形學/DependentTypeLean)｜<a href="https://youtu.be/bqD26biaQWk">🎥視頻</a>｜<a href="https://youtu.be/JSgg2wudKQs">⏯️簡報視頻</a>
 
 ## [Palantir&Mind_AI](Applications/Palantir&Mind_AI) ｜ <a href="https://youtu.be/V57dv-1wx08">🎥視頻</a> ｜<a href="https://youtu.be/EhSBUK-2gx0">⏯️簡報視頻</a> 
 
@@ -97,7 +97,7 @@
 ## [全基因組關聯分析 GWAS × Mind AI](Applications/GWAS) ｜ <a href="https://youtu.be/SU7UyVcoaCk">🎥視頻</a>  ｜<a href="https://youtu.be/exJlOLYe6yI">⏯️簡報視頻</a> 
 
 ----------------------------------------
-## [AI無人機大腦](Applications/AI無人機大腦)｜<a href="https://youtu.be/5oetNhZFoYY">⏯️簡報視頻</a> 
+## [AI無人機大腦](Applications/AI無人機大腦)｜ <a href="https://youtu.be/QQQmfxQAtVQ">🎥視頻</a>｜<a href="https://youtu.be/5oetNhZFoYY">⏯️簡報視頻</a> 
 
 ## [IC 芯片設計大腦(IC Design)](Applications/IC設計) ｜ <a href="https://youtu.be/3OLwhGjTLpQ">🎥視頻</a>｜<a href="https://youtu.be/8_0LRqNv-wQ">⏯️簡報視頻</a> 
 
