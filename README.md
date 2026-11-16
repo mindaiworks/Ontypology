@@ -76,7 +76,7 @@
 # 模型應用  Model Application
 
 
-## [VLA 與 Mind AI](Applications/VLA&Mind_AI) ｜<a href="https://youtu.be/YuUrR6M46g0">⏯️簡報視頻</a> 
+## [VLA 與 Mind AI](Applications/VLA&Mind_AI) ｜<a href="https://youtu.be/qwmncxWHHWI">🎥視頻</a>｜<a href="https://youtu.be/YuUrR6M46g0">⏯️簡報視頻</a> 
 
 ## [世界模型的大腦1 (Brain of the World Model)](Applications/世界模型大腦)｜<a href="https://youtu.be/Kmxf8XTeBes">🎥視頻</a> ｜<a href="https://youtu.be/LFr9uee2QTM">⏯️簡報視頻</a> 
 
