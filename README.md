@@ -25,13 +25,13 @@
 
 ## [簡介 (Space Type)](本形學-空間本形)
 
-## [形与数 (TypeNumber)](本形學-空間本形/1.形與數)
+## [形與數 (TypeNumber)](本形學-空間本形/1.形與數)
 
 🎥橫式<a href="https://youtu.be/dANUjKB41GU"> 1 </a><a href="https://youtu.be/sslkKIcFPBc"> 2 </a> ｜📱直式 <a href="https://v.douyin.com/aR9I8UDoZRs"> 1 </a> <a href="https://v.douyin.com/1jMENGp2mf8"> 2 </a>  <a href="https://v.douyin.com/WkOxsMUuxLI"> 3 </a> ｜<a href="https://youtu.be/oCr2rVOkBkE">⏯️簡報視頻1</a>｜<a href="https://youtu.be/jlnhAv5dJsg">⏯️簡報視頻2</a>
 
 ## [單位形與集合邏輯](本形學-空間本形/3.單位形與集合邏輯)｜ <a href="https://youtu.be/QVqy1opdjss">🎥視頻</a>｜<a href="https://youtu.be/s5X7Bbj-13I">⏯️簡報視頻</a>
  
-## [空间框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥視頻</a>｜<a href="https://youtu.be/jJOFxT0Ltr8">⏯️簡報視頻1</a>｜<a href="https://youtu.be/fbFrKmbyt4A">⏯️簡報視頻2</a>
+## [空間框架 (FrameWork)](本形學-空間本形/空間框架)｜ <a href="https://youtu.be/88jBFuNgHU8">🎥視頻</a>｜<a href="https://youtu.be/jJOFxT0Ltr8">⏯️簡報視頻1</a>｜<a href="https://youtu.be/fbFrKmbyt4A">⏯️簡報視頻2</a>
 
 ## [數學證明](本形學-空間本形/5.數學證明)｜ <a href="https://youtu.be/t4HXf0Vs_q4">🎥視頻</a>｜<a href="https://youtu.be/Boe2Yufg3cs">⏯️簡報視頻</a>
 
@@ -109,7 +109,7 @@
 
 ## [機械設計與PLM(Mechanical Design and PLM)](Applications/機械設計PLM)｜ <a href="https://youtu.be/VhAspRtJHmk">🎥視頻</a>｜<a href="https://youtu.be/Rg4TCR1PzPo">⏯️簡報視頻</a>
 
-## [兵棋大脑(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">🎥視頻</a>｜<a href="https://youtu.be/hl8j0xcxKeo">⏯️簡報視頻</a>
+## [兵棋大腦(Wargames Brain)](Applications/兵棋大腦) ｜ <a href="https://youtu.be/z5pUGrlPcpU">🎥視頻</a>｜<a href="https://youtu.be/hl8j0xcxKeo">⏯️簡報視頻</a>
 
 ## [AI企業資訊系統整合](Applications/AI企業資訊系統整合) ｜ <a href="https://youtu.be/ScG4KOw30-8">🎥視頻</a>｜<a href="https://youtu.be/jcprsTsHRjE">⏯️簡報視頻</a>
 
